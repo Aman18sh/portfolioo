@@ -156,18 +156,6 @@ section{
 
 /* experience section */
 
-.company-header {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.company-logo {
-    width: 10px;
-    height: 6px;
-    object-fit: contain;
-}
-
 .experience .heading {
     text-align: center;
     font-size: 4rem;
